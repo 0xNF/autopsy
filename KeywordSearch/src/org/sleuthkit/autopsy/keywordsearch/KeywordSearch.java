@@ -24,7 +24,7 @@ import java.beans.PropertyChangeSupport;
 import java.io.IOException;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.sleuthkit.autopsy.coreutils.Logger;
 import java.util.logging.SimpleFormatter;
 import org.openide.util.Exceptions;
 import org.sleuthkit.autopsy.casemodule.Case;

@@ -23,7 +23,7 @@ import java.awt.event.ActionEvent;
 import java.io.File;
 import java.io.IOException;
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.sleuthkit.autopsy.coreutils.Logger;
 import javax.swing.AbstractAction;
 import org.openide.nodes.Node;
 import org.sleuthkit.autopsy.casemodule.Case;

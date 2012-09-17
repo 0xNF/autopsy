@@ -20,7 +20,7 @@
 package org.sleuthkit.autopsy.coreutils;
 
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.sleuthkit.autopsy.coreutils.Logger;
 
 /**
  * Helper class to slightly simplify getting the logger for a class, and other

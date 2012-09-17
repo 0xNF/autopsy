@@ -22,7 +22,7 @@ package org.sleuthkit.autopsy.coreutils;
 import java.io.File;
 import java.nio.charset.Charset;
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.sleuthkit.autopsy.coreutils.Logger;
 import org.openide.modules.InstalledFileLocator;
 import org.openide.modules.Places;
 

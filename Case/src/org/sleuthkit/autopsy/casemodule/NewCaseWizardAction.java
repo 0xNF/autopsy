@@ -24,7 +24,7 @@ import java.awt.Dialog;
 import java.io.File;
 import java.text.MessageFormat;
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.sleuthkit.autopsy.coreutils.Logger;
 import javax.swing.JComponent;
 import org.openide.DialogDescriptor;
 import org.openide.DialogDisplayer;
